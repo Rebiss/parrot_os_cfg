@@ -1,0 +1,6 @@
+Archive: rolling
+Component: non-free
+Origin: Parrot
+Label: Parrot Rolling Repository
+Architecture: amd64
+Description: Rolling Repository For Parrot OS
